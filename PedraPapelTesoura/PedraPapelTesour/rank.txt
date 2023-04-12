@@ -1,0 +1,12 @@
+AB-10
+CD-9
+EF-8
+GH-7
+IJ-6
+KL-5
+MN-4
+OP-3
+QR-2
+ST-1
+marcos-1
+marcos-3
